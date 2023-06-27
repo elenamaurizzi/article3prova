@@ -135,7 +135,7 @@ footer {
 
  <p align="justify">Indie-rock, a genre born out of rebellion and independent spirit, is a melting pot of unique sounds and styles. At its core, indie-rock embodies extraordinary creativity, authenticity, and a fierce rejection of mainstream conventions. Hailing from the late '70s and early '80s, this subculture found its roots in the punk and post-punk movements, where artists valiantly explored uncharted territories of alternative music. Numerous artists have shaped indie-rock into the captivating and diverse genre we adore today. From the enigmatic influence of The Cure and Pink Floyd to the mesmerizing melancholy of Radiohead and Pixies, each band has contributed their own hues to the indie-rock canvas. These artists pushed boundaries, defying norms and experimenting with innovative sounds, challenging the status quo with a steadfast romantic spirit.</p>
 
-    <img src="Chart2.png" alt="influence on indie rock" style="width: 50%;">
+    <img src="Chart2.jpg" alt="influence on indie rock" style="width: 50%;">
  <br>
  <br>
     <p align="justify">Our journey takes a spotlight detour to indulge in the captivating discography of Blur. Formed in the late '80s, this British quartet became one of the pioneers of the Britpop movement in the '90s. The distinct voice of Damon Albarn, coupled with Graham Coxon's intricate guitar work, created an infectious fusion of melodic hooks and introspective lyrics. We explore their seminal albums, from the iconic "Parklife" to the introspective "13", immersing ourselves in their metamorphosis over the years.</p>
