@@ -145,8 +145,8 @@ footer {
     <p align="justify">As we traverse deeper into the realms of indie-rock, we reach the fascinating soundscape of Sonic Youth. This American avant-garde quartet pushed the boundaries of alternative rock, blending dissonant melodies, unconventional guitar tunings, and poetic lyricism to create a truly unique sound. Albums like "Daydream Nation" and "Goo" introduced us to their hypnotic artistry, leaving an permanent mark on the indie-rock landscape.</p>
 <br>
     <img src="sonicyouth.jpg" alt="sonic youth" style="width: 50%;">
-
-
+<br>
+   <p align="justify">While we have merely skimmed the surface of this captivating genre and the iconic bands like Blur and Sonic Youth, we invite you to delve deeper and explore the rich tapestry of indie-rock for yourself. Join us on our  <a href="https://melody-data.github.io/stories/published_stories/story_1687016728.436494.html">melody page</a>, where we unravel the lesser-known stories, hidden gems, and secrets waiting to be discovered. Get ready to embark on an exhilarating journey through indie-rock's vibrant world - we promise you won't be disappointed!.
 
 <br><br><br><br>
 
