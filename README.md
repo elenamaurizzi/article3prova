@@ -145,7 +145,7 @@ footer {
 <br>
     <img src="sonicyouth.jpg" alt="sonic youth" style="width: 40%;">
 <br>
-   <p align="justify">While we have merely skimmed the surface of this captivating genre and the iconic bands like Blur and Sonic Youth, we invite you to delve deeper and explore the rich tapestry of indie-rock for yourself. Join us on our  <a href="https://melody-data.github.io/stories/published_stories/story_1687016728.436494.html">melody page</a>, where we unravel the lesser-known stories, hidden gems, and secrets waiting to be discovered. Get ready to embark on an exhilarating journey through indie-rock's vibrant world - we promise you won't be disappointed!.
+   <p align="justify">While we have merely skimmed the surface of this captivating genre and the iconic bands like Blur and Sonic Youth, we invite you to delve deeper and explore the rich tapestry of indie-rock for yourself. Join us on our  <a href="https://melody-data.github.io/stories/published_stories/story_1687016728.436494.html">melody page</a>, where we unravel the lesser-known stories, hidden gems, and secrets waiting to be discovered. Get ready to embark on an exhilarating journey through indie-rock's vibrant world - we promise you won't be disappointed!
 
 <br><br><br><br>
 
