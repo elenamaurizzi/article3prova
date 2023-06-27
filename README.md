@@ -127,13 +127,13 @@ footer {
 
 <div class="w3-container">
 <br><br>
-  <h1 align="center"><span style="font-family:'Times New Roman', Times, serif">ADD TITLE OF ARTICLE 1</span></h1>
+  <h1 align="center"><span style="font-family:'Times New Roman', Times, serif">Unleashing the Spirit of Indie-Rock: A Tale of Blur and Sonic Youth</span></h1>
 
-  <h2 align="center"><span style="font-family:'Times New Roman', Times, serif"><i>A story written by</i></span></h2>
+  <h2 align="center"><span style="font-family:'Times New Roman', Times, serif"><i>A story written by Ilaria Massa and Camilla Livio</i></span></h2>
 <br>
-  <p align="justify">add pharagraph</p>
+  <p align="justify">Welcome fellow indie-rock enthusiasts! We are thrilled to present our passion project that explores the enchanting world of indie-rock music. As two dedicated students captivated by the genre, our aim is to shed light on its rich history, the influential figures, and spotlight two iconic bands - Blur and Sonic Youth. So buckle up, embrace the raw energy, and join us on this journey through the music that has defined a generation.</p>
 
- <p align="justify">add pharagraph</p>
+ <p align="justify">Indie-rock, a genre born out of rebellion and independent spirit, is a melting pot of unique sounds and styles. At its core, indie-rock embodies extraordinary creativity, authenticity, and a fierce rejection of mainstream conventions. Hailing from the late '70s and early '80s, this subculture found its roots in the punk and post-punk movements, where artists valiantly explored uncharted territories of alternative music. Numerous artists have shaped indie-rock into the captivating and diverse genre we adore today. From the enigmatic influence of The Cure and Pink Floyd to the mesmerizing melancholy of Radiohead and Pixies, each band has contributed their own hues to the indie-rock canvas. These artists pushed boundaries, defying norms and experimenting with innovative sounds, challenging the status quo with a steadfast romantic spirit.</p>
 
     <img src="#add melody image" alt="CD linechart" style="width: 50%;">
  <br>
