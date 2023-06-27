@@ -135,16 +135,21 @@ footer {
 
  <p align="justify">Indie-rock, a genre born out of rebellion and independent spirit, is a melting pot of unique sounds and styles. At its core, indie-rock embodies extraordinary creativity, authenticity, and a fierce rejection of mainstream conventions. Hailing from the late '70s and early '80s, this subculture found its roots in the punk and post-punk movements, where artists valiantly explored uncharted territories of alternative music. Numerous artists have shaped indie-rock into the captivating and diverse genre we adore today. From the enigmatic influence of The Cure and Pink Floyd to the mesmerizing melancholy of Radiohead and Pixies, each band has contributed their own hues to the indie-rock canvas. These artists pushed boundaries, defying norms and experimenting with innovative sounds, challenging the status quo with a steadfast romantic spirit.</p>
 <br>
-    <img src="Chart2.jpg" alt="influence on indie rock" style="width: 50%;">
+<br>
+    <img src="Chart2.jpg" alt="influence on indie rock" style="width: 30%;">
  <br>
  <br>
     <p align="justify">Our journey takes a spotlight detour to indulge in the captivating discography of Blur. Formed in the late '80s, this British quartet became one of the pioneers of the Britpop movement in the '90s. The distinct voice of Damon Albarn, coupled with Graham Coxon's intricate guitar work, created an infectious fusion of melodic hooks and introspective lyrics. We explore their seminal albums, from the iconic "Parklife" to the introspective "13", immersing ourselves in their metamorphosis over the years.</p>
 <br>
-    <img src="blur.jpg" alt="blur" style="width: 50%;">
+<br>
+    <img src="blur.jpg" alt="blur" style="width: 30%;">
+<br>
 <br>
     <p align="justify">As we traverse deeper into the realms of indie-rock, we reach the fascinating soundscape of Sonic Youth. This American avant-garde quartet pushed the boundaries of alternative rock, blending dissonant melodies, unconventional guitar tunings, and poetic lyricism to create a truly unique sound. Albums like "Daydream Nation" and "Goo" introduced us to their hypnotic artistry, leaving an permanent mark on the indie-rock landscape.</p>
 <br>
-    <img src="sonicyouth.jpg" alt="sonic youth" style="width: 50%;">
+<br>
+    <img src="sonicyouth.jpg" alt="sonic youth" style="width: 30%;">
+<br>
 <br>
    <p align="justify">While we have merely skimmed the surface of this captivating genre and the iconic bands like Blur and Sonic Youth, we invite you to delve deeper and explore the rich tapestry of indie-rock for yourself. Join us on our  <a href="https://melody-data.github.io/stories/published_stories/story_1687016728.436494.html">melody page</a>, where we unravel the lesser-known stories, hidden gems, and secrets waiting to be discovered. Get ready to embark on an exhilarating journey through indie-rock's vibrant world - we promise you won't be disappointed!.
 
