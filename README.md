@@ -138,8 +138,6 @@ footer {
     <img src="Chart2.png" alt="influence on indie rock" style="width: 50%;">
  <br>
  <br>
-    <img src="#add melody image" alt="vinyls linechart" style="width: 50%;">
-
     <p align="justify">Our journey takes a spotlight detour to indulge in the captivating discography of Blur. Formed in the late '80s, this British quartet became one of the pioneers of the Britpop movement in the '90s. The distinct voice of Damon Albarn, coupled with Graham Coxon's intricate guitar work, created an infectious fusion of melodic hooks and introspective lyrics. We explore their seminal albums, from the iconic "Parklife" to the introspective "13", immersing ourselves in their metamorphosis over the years.</p>
 <br>
     <img src="blur.jpg" alt="blur" style="width: 50%;">
